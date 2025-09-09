@@ -78,3 +78,5 @@
 | [`ft_lstclear`](ft_lstclear.c) | delete sequence of elements of list from a starting point |
 | [`ft_lstiter`](ft_lstiter.c) | apply function to content of all list's elements |
 | [`ft_lstmap`](ft_lstmap.c) | apply function to content of all list's elements into new list |
+
+[DeepWiki moraisLuismNet/Libft](https://deepwiki.com/moraisLuismNet/Libft)
